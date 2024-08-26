@@ -1,0 +1,81 @@
+body {
+    background-color: #CCCCCC;
+    background-repeat: repeat;
+    font-family: Verdana, sans-serif;
+}
+
+h2 a {
+    color: #000080;
+    text-decoration: none;
+}
+
+h2 a:hover {
+    background-color: #667494;
+}
+.left-menu a {
+    text-decoration: none;
+    color: #000080;
+    font-size: 0.95em;
+    font-family: trebuchet ms, sans-serif;
+}
+
+.left-menu a:hover {
+    background-color: #c0c0c0;
+}
+
+td {
+    color: #000;
+    font-size: 0.85em;
+    font-family: trebuchet ms, sans-serif;
+}
+
+.frst a {
+            float: left;
+            height: 15px;
+            width: 45px;
+            padding: 1px;
+            font-size: 0.7em;
+            font-family: Arial, sans-serif;
+            font-weight: normal;
+            text-align: center;
+            vertical-align: middle;
+            white-space: nowrap;
+            cursor: default;
+            background-color: #566484;
+            color: #ffffff;
+            border: 2px outset #a6b4d4;
+            text-decoration: none;
+}
+
+.frst a:hover{
+    background-color: #c0c0c0;
+}
+
+#konu {
+    padding: 1px;
+    border: 2px;
+    float: left;
+    width: 163px;
+    height: 21px;
+    max-width: 255px;
+    border: 2px outset #a6b4d4;
+    background-color: #FBFAF7;
+    color: black;
+}
+
+#acilsusam {
+    display: block;
+    position: absolute;
+    top: 45px;
+    left: 185px;
+    width: 190px;
+    overflow: hidden;
+    background-color: #CCCCCC;
+}
+
+input{
+    background-color: #566484;
+    border: 1px outset #66746A;
+    color: #ffffff;
+    font: 8pt Verdana;
+}
